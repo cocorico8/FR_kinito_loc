@@ -252,7 +252,7 @@
 	"KPET_CMD_SEQBOOT": "[accès au système accordé] séquence de démarrage",
 	"KPET_CMD_GRNTPERMS": "accorder des permissions à kinitopet.exe",
 	
-	"KPET_CMD_RMFILE": "suppression du fichier [!assets[%%i] !] du serveur [\"kinito\"]",
+	"KPET_CMD_RMFILE": "suppression du fichier [!assets[%%i]!] du serveur [\"kinito\"]",
 	"KPET_CMD_RMDB": "suppression du fichier [!names[%%i]!s_database.txt] du serveur [\"kinito\"]",
 	"KPET_CMD_RMWRLD": "suppression du fichier [!names[%%i]!s_world.zip] du serveur [\"kinito\"]",
 	"KPET_CMD_RMCORE": "suppression des fichiers de base...",
