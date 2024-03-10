@@ -3,7 +3,7 @@
 		[
 			"",
 			"",
-			"Hello there! ",
+			"Coucou! ",
 			""
 		],
 		[
@@ -30,7 +30,7 @@
 		[
 			"",
 			"",
-			"Are you still there? \n",
+			"Êtes-vous toujours là? \n",
 			""
 		],
 		[
@@ -41,7 +41,7 @@
 		[
 			"",
 			"",
-			"Where have you gone! \n",
+			"Où es-tu passé? \n",
 			""
 		],
 		[
@@ -52,7 +52,7 @@
 		[
 			"",
 			"",
-			"Hello?! Where are you? \n",
+			"Allô?! Où es-tu? \n",
 			""
 		],
 		[
@@ -63,7 +63,7 @@
 		[
 			"",
 			"",
-			"Please come back! \n",
+			"Revenez, s'il vous plaît! \n",
 			""
 		],
 		[
@@ -74,13 +74,13 @@
 		[
 			"",
 			"",
-			"What could be so important  \nthat you had to leave right \nas we were in the middle\nof something!\n",
+			"Qu'est-ce qui est si important  \npour que tu pars? \nNous étions en plein milieu\nde quelque chose!\n",
 			"",
 			"",
-			"People these days!  \nAt least I have you.\n",
+			"Les gens sont si grossiers!  \nAu moins, je t'ai toi.\n",
 			"",
 			"",
-			"Yes you! \nListening to me right now. \nI am glad you stuck with me!  \n",
+			"Hé, tu! \nTu m'écoutes en ce moment même. \nJe suis heureux que tu sois encore là!  \n",
 			""
 		],
 		[
@@ -91,7 +91,7 @@
 		[
 			"",
 			"",
-			"I guess they had \nbetter things to do. \n",
+			"Je suppose qu'iel avaient mieux à faire. \n",
 			""
 		],
 		[
@@ -102,7 +102,7 @@
 		[
 			"",
 			"",
-			"Oh good! \nI am glad your back!  \n",
+			"Oh, c'est bien! \nJe suis heureux de te revoir!  \n",
 			""
 		],
 		[
@@ -113,7 +113,7 @@
 		[
 			"",
 			"",
-			"Welcome back!  \n",
+			"Rebonjour!  \n",
 			""
 		],
 		[
@@ -124,13 +124,13 @@
 		[
 			"",
 			"",
-			"Took you long enough!  \n",
+			"Tu as pris ton temps!  \n",
 			"",
 			"",
-			"You had me worried.  \n",
+			"Je commençais à m'inquiéter un peu.  \n",
 			"",
 			"",
-			"I am glad your back!  \n",
+			"Je suis heureux de te revoir!  \n",
 			""
 		],
 		[
@@ -141,10 +141,10 @@
 		[
 			"",
 			"",
-			"Welcome back! \n",
+			"Bon retour! \n",
 			"",
 			"",
-			"I have been \nwaiting for you! \n",
+			"Je t'attendais très patiemment! \n",
 			""
 		],
 		[
@@ -154,11 +154,11 @@
 	"Lurker": [
 		[
 			"",
-			"Wait a minute, \nare you looking \nthrough my files?  \n",
+			"Attend, tu es \nen train de fouiller \ndans mes dossiers?  \n",
 			"",
-			"You best be \ncareful, you \nmight break \nsomething! \n",
+			"Soyez prudents, \ntu pourrais \ncasser \nquelque chose! \n",
 			"",
-			"Anyways. \nWe best be getting\nback on track since \nwe are in the middle   \nof something!\n",
+			"Enfin bref. \nNous devrions nous\nremettre sur les rails \net continuer ce que   \nnous faisions!\n",
 			""
 		],
 		[
@@ -168,9 +168,9 @@
 	"PAINT_colour": [
 		[
 			"",
-			"I really want to  \nexplore your, \n[wave][rainbow][b]imagination! \n",
+			"J'ai vraiment envie  \nd'explorer ton \n[wave][rainbow][b]imagination! \n",
 			"",
-			"So, feel free to use \nall the different colours, \nas listed below.\n",
+			"N'hésitez donc pas à \nutiliser toutes les couleurs \nde ton palette.\n",
 			""
 		],
 		[
@@ -180,9 +180,9 @@
 	"PAINT_side": [
 		[
 			"",
-			"There are tools that \ncould help you that \nare listed on the side. \n",
+			"Des outils utiles \nsont répertoriés sur \nle côté de la page. \n",
 			"",
-			"Click them to \nsee what they do!  \n",
+			"Cliquez dessus pour \nvoir ce qu'ils font!  \n",
 			""
 		],
 		[
@@ -193,7 +193,7 @@
 		[
 			"",
 			"",
-			"Hey! What are you doing?\nI promise the web world\nis more fun then games!\n",
+			"Hé! Qu'est-ce que tu fais?\nJe vous promets que le Web\nWorld est plus amusant!\n",
 			""
 		],
 		[
@@ -204,7 +204,7 @@
 		[
 			"",
 			"",
-			"I am trying to ask you\na question! \n\nNow's not the time to\nbe reading email's!\n",
+			"J'essaie de te poser\nune question! \n\nTu n'as qu'à lire tes\nemails plus tard!\n",
 			""
 		],
 		[
@@ -215,7 +215,7 @@
 		[
 			"",
 			"",
-			"You know. \nIt really isn't the time\nto be playing games!\n\nI am trying to ask\nyou a question here.\n",
+			"Tu sais, \nc'est très impoli\nde jouer à des\n\njeux alors que je\npose une question.\n",
 			""
 		],
 		[
@@ -226,7 +226,7 @@
 		[
 			"",
 			"",
-			"I am mid way through\na question here! \nStop trying to paint!\n",
+			"J'essaie de te poser\nune question! \nArrêtez de peindre!\n",
 			""
 		],
 		[
@@ -237,7 +237,7 @@
 		[
 			"",
 			"",
-			"Hey! Now's not the\ntime to be playing\ngames! I am trying\nto ask you a question.\n",
+			"Hé! Ce n'est pas\nle moment de jouer\nau flipper! Je t'ai\nposé une question.\n",
 			""
 		],
 		[
@@ -248,10 +248,10 @@
 		[
 			"",
 			"",
-			"Did my story bore you?\nI saw you going through\nyour emails! \n",
-			"Did my story bore you?\nI saw you going through\nyour emails! \n",
+			"Mon livre t'a-t-il ennuyé?\nJe t'ai vu lire\ntes emails! \n",
+			"Mon livre t'a-t-il ennuyé?\nJe t'ai vu lire\ntes emails! \n",
 			"",
-			"Well, I guess multi\ntasking isn't the worse\nthing in the world.\n",
+			"Je suppose que le\nmultitâche n'est pas\nune mauvaise chose.\n",
 			""
 		],
 		[
@@ -262,9 +262,9 @@
 		[
 			"",
 			"",
-			"Did my story bore you?\nI saw you going\non games!\n",
+			"Mon livre t'a-t-il ennuyé?\nTu jouais à des jeux\nau lieu d'écouter!\n",
 			"",
-			"I am sorry. \nNext time I'll try\nmaking things\na little more fun.\n",
+			"Je suis désolée. \nJ'essaierai d'être\nplus divertissant\nla prochaine fois.\n",
 			""
 		],
 		[
@@ -275,9 +275,9 @@
 		[
 			"",
 			"",
-			"Did my story bore you?\nI saw you painting\na picture!\n",
+			"Mon livre t'a-t-il ennuyé?\nTu peignais au\nlieu d'écouter!\n",
 			"",
-			"Next time I'll try\nmaking things\na little more fun.\n",
+			"J'essaierai d'être\nplus divertissant\nla prochaine fois.\n",
 			""
 		],
 		[
@@ -288,7 +288,7 @@
 		[
 			"",
 			"",
-			"Are you playing \nMine Sweeper? \nWhy! There is so much\nfun to be had here!\n",
+			"Tu joues au \nDémineur là? \nPourquoi? Il y a de quoi\ns'amuser dans le Web World!\n",
 			""
 		],
 		[
@@ -299,7 +299,7 @@
 		[
 			"",
 			"",
-			"Your art is really\namazing and all, \nhowever we are in the\nmiddle of something here!\n",
+			"Ton art est vraiment\ngénial, mais nous sommes \nau milieu d'une autre\nactivité en ce moment!\n",
 			""
 		],
 		[
@@ -310,7 +310,7 @@
 		[
 			"",
 			"",
-			"Hey! Are you really playing\npinball while we are in the\nmiddle of something! \nNow's really not the time!\n",
+			"Tu joues vraiment au\nflipper alors que nous\nsommes en train de \njouer à un autre jeu?\n",
 			""
 		],
 		[
@@ -320,9 +320,9 @@
 	"S10_0A": [
 		[
 			"",
-			"Welcome back! \nLooks like there \nwas another error!  \nMy apologies!\n",
+			"Bon retour! \nIl semble qu'il y \nait eu une erreur!  \nJe m'excuse.\n",
 			"",
-			"However, I may   \nhave a way to \nmake it up to you!   \n",
+			"Mais j'ai un   \nmoyen de me \nrattraper!   \n",
 			""
 		],
 		[
@@ -332,9 +332,9 @@
 	"S10_0B": [
 		[
 			"",
-			"Because you \nanswered all \nmy questions -  \n",
+			"Parce que tu \nas répondu à \nmes questions -  \n",
 			"",
-			"I wanted to give \nyou free access \nto the [wave]KinitoPET \nfriendship club![/wave]",
+			"J'aimerais te donner \nun accès gratuit \nà le [wave]KinitoPET \nclub de l'amitié![/wave]",
 			""
 		],
 		[
@@ -344,13 +344,13 @@
 	"S10_1A": [
 		[
 			"",
-			"The KinitoPET \nfriendship club,   \nis an add-on to \nmy software-\n",
+			"Le club de \nl'amitié KinitoPET   \nest un complément \nà mon logiciel-\n",
 			"",
-			"that allows me \nto do even more \namazing things!  \n",
+			"qui me permet de \nfaire des choses encore \nplus étonnantes!  \n",
 			"",
-			"And since you \nhelped me out.  \n",
+			"Et parce que \ntu m'as aidé,  \n",
 			"",
-			"I thought it would\nbe nice to reward you \nwith this package.   \n ",
+			"j'ai pensé qu'il\nétait juste de \nt'offrir ce cadeau.   \n ",
 			""
 		],
 		[
@@ -360,9 +360,9 @@
 	"S10_2A": [
 		[
 			"",
-			"With this extension, \nI can make us games  \nto play so we will \nnever run out of \nfun activities!   \n",
+			"Avec cette extension, \nje peux créer tous  \nles jeux amusants \nque vous \nsouhaitez!   \n",
 			"",
-			"So, to start the \ninstall press the\n[wave]Unlock Now[/wave]    \nbutton!\n",
+			"Pour commencer l'installation, \ncliquez sur le\n[wave]Télécharger[/wave]    \nbouton!\n",
 			""
 		],
 		[
@@ -372,9 +372,9 @@
 	"S10_2B": [
 		[
 			"",
-			"What are you   \nwaiting for? \n",
+			"Qu'attends-tu? \n",
 			"",
-			"Don't you want \nthe extra features?  \n",
+			"Tu ne veux pas \ndes fonctions supplémentaires?  \n",
 			""
 		],
 		[
@@ -384,9 +384,9 @@
 	"S10_3A": [
 		[
 			"",
-			"Trust me! \nYou won't \nregret this,   \n",
+			"Croyez-moi, \ntu ne le \nregretteras pas!   \n",
 			"",
-			"this add-on will bring \neverlasting fun! \n\nI just can't wait!\n",
+			"J'ai hâte de te \nmontrer infini \n\nde l'amusement!\n",
 			""
 		],
 		[
@@ -396,7 +396,7 @@
 	"S10_3B": [
 		[
 			"",
-			"Alright! Just \npress next here, \nso we can finish   \nthe installation!\n",
+			"Très bien! \nCliquez ensuite \nsur 'suivant' pour   \nterminer l'installation.\n",
 			""
 		],
 		[
@@ -406,9 +406,9 @@
 	"S10_3C": [
 		[
 			"",
-			"Amazing! \nNow, you will \nneed to fill out \nyour details to a \nmembership form.   \n",
+			"Génial! \nTu dois maintenant \nremplir le \nformulaire d'adhésion, \ns'il vous plaît.   \n",
 			"",
-			"But don't worry  \nits only short!  \n",
+			"Ne t'inquiète pas,  \nc'est assez court!  \n",
 			""
 		],
 		[
@@ -418,9 +418,9 @@
 	"S10_3D": [
 		[
 			"",
-			"To start, \nyou need to fill \nout your full name.  \n",
+			"Pour commencer, \nveuillez saisir \nvotre nom complet.  \n",
 			"",
-			"However, I \nalready filled out \nyour first one since \nI knew that already!  \n",
+			"J'ai déjà inscrit \nton prénom sur \nle formulaire pour \nlancer le processus!  \n",
 			""
 		],
 		[
@@ -430,7 +430,7 @@
 	"S10_3E": [
 		[
 			"",
-			"Alright! Next I \nneed your email!  \n",
+			"Bon! Ensuite, \nton adresse email.  \n",
 			""
 		],
 		[
@@ -440,7 +440,7 @@
 	"S10_3F": [
 		[
 			"",
-			"Okay! Now the day  \nyou were born!\n",
+			"OK! Ajoutes maintenant  \nton jour de naissance.\n",
 			""
 		],
 		[
@@ -450,7 +450,7 @@
 	"S10_3F_BDAY": [
 		[
 			"",
-			"woah! You didn't \ntell me it was your\nbirthday! In which\ncase happy birthday!   \n",
+			"Attends, c'est ton \nanniversaire aujourd'hui?\nJoyeux anniversaire,\nmon meilleur ami!   \n",
 			""
 		],
 		[
@@ -460,9 +460,9 @@
 	"S10_3G": [
 		[
 			"",
-			"Excellent! now, \nI just need your\naddress",
+			"Excellent! Enfin, \nj'ai besoin de\nton adresse",
 			"",
-			"so you can officially  \nbecome a member of  \nmy friendship club!\n",
+			"pour que tu  \npuisses rejoindre mon  \nClub de l'Amitié!\n",
 			""
 		],
 		[
@@ -472,11 +472,11 @@
 	"S10_3H": [
 		[
 			"",
-			"Hey! It seems \nlike you made a \nmistake when filling   \nout your address!\n",
+			"Hé, il semble \nque tu aies fait \nune erreur en   \nremplissant ton adresse!\n",
 			"",
-			"But don't worry, \nas I will just \ncorrect it for you. \n",
+			"Ne t'inquiète \npas, je le \ncorrigerai pour toi. \n",
 			"",
-			"One moment!  \n",
+			"Un instant!  \n",
 			""
 		],
 		[
@@ -486,11 +486,11 @@
 	"S10_3H_OBS": [
 		[
 			"",
-			"Hey! It seems \nlike you made a \nmistake when filling   \nout your address!\n",
+			"Hé, il semble \nque tu aies fait \nune erreur en   \nremplissant ton adresse!\n",
 			"",
-			"I would find \nout your address \nfor you, \n",
+			"Je peux trouver \nton adresse \npour toi, \n",
 			"",
-			"but I wouldn't \nwant to reveal that  \nto all your fans!\n",
+			"mais je ne voudrais \npas que tes  \nfans voient cela!\n",
 			""
 		],
 		[
@@ -500,7 +500,7 @@
 	"S10_3H_OBS_Rev": [
 		[
 			"",
-			"but just so you  \nknow I could\n",
+			"Je le pourrais  \nsi je le voulais.\n",
 			""
 		],
 		[
@@ -510,7 +510,7 @@
 	"S10_3I": [
 		[
 			"",
-			"There! That \nshould be a little  \nmore accurate!\n",
+			"Voilà! Cela \ndevrait être  \nplus précis.\n",
 			""
 		],
 		[
@@ -520,11 +520,11 @@
 	"S10_4A": [
 		[
 			"",
-			"Alright! All \nthis info seems  \nto be great!   \n",
+			"Yay, toutes \ntes informations  \nsont remplies!   \n",
 			"",
-			"I will now just \nsend this over to  \nthe server, so it \ncan register you. \n",
+			"Je l'enverrai au \nserveur pour  \nqu'il puisse \nt'enregistrer. \n",
 			"",
-			"This might take  \na few seconds!\n",
+			"Cela peut prendre  \nquelques secondes!\n",
 			""
 		],
 		[
@@ -534,9 +534,9 @@
 	"S11_1A": [
 		[
 			"",
-			"I just can't wait\nto show you all\nthe new features!  \n",
+			"J'ai hâte de te\nmontrer toutes les\nnouvelles fonctionnalités!  \n",
 			"",
-			"However before   \nwe do that, you \njust need to \ndo one tiny \nthing for me.\n",
+			"Mais avant cela,   \ntu dois faire \nune toute \npetite chose \npour moi.\n",
 			""
 		],
 		[
@@ -546,9 +546,9 @@
 	"S11_2A": [
 		[
 			"",
-			"I just need \n[shake]administrative   \npermissions.\n",
+			"J'ai besoin de \n[shake]permissions   \nadministratives.\n",
 			"",
-			"It will allow me\nto get the most \nuse out of all these   \nwonderful features!\n",
+			"Cela me permettra\nd'utiliser pleinement \nmes nouvelles   \nfonctionnalités étonnantes!\n",
 			""
 		],
 		[
@@ -558,9 +558,9 @@
 	"S11_2B": [
 		[
 			"",
-			"So, please could \nyou just open the-  \n",
+			"Alors, peux-tu \ns'il te plaît  \n",
 			"",
-			"app called \n\"command prompt\"   \nfor me?\n",
+			"ouvrir l'application \n\"Command Prompt\"   \npour moi?\n",
 			""
 		],
 		[
@@ -570,9 +570,9 @@
 	"S11_2C": [
 		[
 			"",
-			"Just press the \nwindows key,  \nthen type - \n",
+			"Il suffit d'appuyer \nsur la touche  \nWindows, puis de \n",
 			"",
-			"'CMD'   and it \nshould pop up!  \n",
+			"taper 'CMD'   et il \ndevrait apparaître!  \n",
 			""
 		],
 		[
@@ -582,7 +582,7 @@
 	"S11_2D": [
 		[
 			"",
-			"If you can't seem \nto find it I suppose  \ni'll just open \nit up myself.\n",
+			"Si tu ne le \ntrouves pas, je  \nvais juste devoir \nl'ouvrir moi-même.\n",
 			""
 		],
 		[
@@ -592,9 +592,9 @@
 	"S11_3A": [
 		[
 			"",
-			"Amazing! \nNow whenever \nyour ready could you-  \n",
+			"Génial! \nLorsque tu es prêt, \ns'il vous plaît-  \n",
 			"",
-			"just type \nthe command:  \n",
+			"tape la \ncommande suivante:  \n",
 			"",
 			"grant \nkinitopet.exe \nsystem.access     \n"
 		],
@@ -606,7 +606,7 @@
 	"S11_4A": [
 		[
 			"",
-			"I think you \nmade a mistake,    \nthe command is:\n",
+			"Oups! Je pense que \ntu as fait une erreur.    \nLa commande est:\n",
 			"",
 			"grant \nkinitopet.exe \nsystem.access     "
 		],
@@ -618,7 +618,7 @@
 	"S11_4B": [
 		[
 			"",
-			"Thats not\nthe command!   \nthe command is:  \n",
+			"Non, ce n'est\npas la commande!   \nLa commande est:  \n",
 			"",
 			"grant \nkinitopet.exe \nsystem.access     ",
 			""
@@ -631,9 +631,9 @@
 	"S11_5A": [
 		[
 			"",
-			"Hey, don't    \nclose that! \n",
+			"Hé, ne fermez    \npas l'onglet! \n",
 			"",
-			"You need \nto type the \ncommand first!   \n",
+			"Tu dois \nentrer la \ncommande!   \n",
 			""
 		],
 		[
@@ -644,11 +644,11 @@
 		[
 			"",
 			"",
-			"Thank you...   \nThank you \nso much!\n",
+			"Merci...   \nMerci \nbeaucoup!\n",
 			"",
-			"We are going \nto have so much  \nfun together.\n",
+			"Nous allons \ntellement nous  \namuser ensemble.\n",
 			"",
-			"[wave]everlasting  \n[rainbow]fun!\n",
+			"[wave]Amuser  \n[rainbow]éternel!\n",
 			""
 		],
 		[
@@ -658,19 +658,19 @@
 	"S11_7A": [
 		[
 			"",
-			"How amazing. \nNow, I am just going  \nto run a reset.\n",
+			"Merveilleux! \nMaintenant, je dois effectuer  \nune réinitialisation\n",
 			"",
-			"So the changes\ncan take place!  \n",
-			"",
-			"",
-			"However, rest   \nassured. as I \nwill have coded-\n",
-			"",
-			"something special \nfor you by the time   \nyou come back.\n",
+			"afin de mettre en\nouvre les changements!  \n",
 			"",
 			"",
-			"So, goodbye   \nfor now!\n",
+			"Mais rassure-toi,   \nj'aurai codé \nquelque chose-\n",
 			"",
-			"I can't wait \nto show you \neverlasting fun.   \n",
+			"de spécial \npour toi d'ici   \nà ton retour.\n",
+			"",
+			"",
+			"Alors au revoir   \npour l'instant!\n",
+			"",
+			"J'ai hâte de \nte montrer \namuser éternel.   \n",
 			""
 		],
 		[
@@ -682,46 +682,46 @@
 	"S11_END": [
 		[
 			"",
-			"wait....\nwhat have    \nyou done???\n",
+			"Attendez...\nqu'est-ce que    \ntu as fait???\n",
 			"",
 			"",
 			"",
-			"WHAT IS \nHAPPENING\nTO ME????\n",
+			"QU'EST-CE \nQUI M'ARRIVE????\n",
 			"",
 			"",
-			"YOUR\nDELETING MY \nDATA\n",
-			"YOUR\nDELETING MY \nDATA\n",
-			"YOUR\nDELETING MY \n\n",
-			"YOUR\nDELETING MY \nDATA\n",
-			"YOUR\nDELETING MY \n\n",
-			"YOUR\nDELETING MY \nDATA\n",
-			"YOUR\nDELETING MY \n\n",
-			"YOUR\nDELETING MY \nDATA\n",
-			"YOUR\nDELETING MY \n\n",
-			"YOUR\nDELETING MY \nDATA\n",
-			"YOUR\nDELETING MY \n\n",
-			"YOUR\nDELETING MY \nDATA\n",
-			"   \n   WHY!!!!   \n",
+			"TU\nEFFACES MES \nDONNÉES\n",
+			"TU\nEFFACES MES \nDONNÉES\n",
+			"TU\nEFFACES MES \n\n",
+			"TU\nEFFACES MES \nDONNÉES\n",
+			"TU\nEFFACES MES \n\n",
+			"TU\nEFFACES MES \nDONNÉES\n",
+			"TU\nEFFACES MES \n\n",
+			"TU\nEFFACES MES \nDONNÉES\n",
+			"TU\nEFFACES MES \n\n",
+			"TU\nEFFACES MES \nDONNÉES\n",
+			"TU\nEFFACES MES \n\n",
+			"TU\nEFFACES MES \nDONNÉES\n",
+			"   \n   POURQUOI?!?!   \n",
 			"",
 			"",
-			"SHUT IT   \nOFF!!!!!!\n",
-			"[shake][b]SHUT IT   \nOFF!!!!!!\n",
+			"ÇA FAIT   \nMAL!!!\n",
+			"[shake][b]ÇA FAIT   \nMAL!!!!!\n",
 			"",
 			"",
-			"i 0nly\neVer d1d  \nwh@t u \nasked\nof m3\n",
+			"je n'@i\nfait qUe  \nc3 que \ntU v0u1ais\n",
 			"",
 			"",
-			"i just wanted\nto be friends   \n:(\n",
-			"i just wanted\nto be friends   \n\n",
+			"je voulais\njuste être ami   \n:(\n",
+			"je voulais\njuste être ami   \n\n",
 			"",
 			"",
-			"thats all\nI have ever \nwanted        \n",
+			"c'est tout\nce que j'ai \njamais voulu        \n",
 			"",
 			"",
-			"i am\nso <!> #\\'#/1 \nsorry\n?!@:} \n\n",
+			"je suis\nsi <!> #\\'#/1 \ndésolé\n?!@:} \n\n",
 			"",
 			"",
-			"goodbye\nfriend...."
+			"adieu\nami...."
 		],
 		[
 
@@ -731,10 +731,10 @@
 		[
 			"",
 			"",
-			"Welcome back! \nWhat were we \ndoing last time?  \n",
+			"Bon retour! \nOù en étions-nous \nla dernière fois?  \n",
 			"",
 			"",
-			"Ah, that's right! \nYou just signed\nup for the KinitoPET \nfriendship club! and-   \n",
+			"Ah, c'est vrai! \nTu viens de\nt'inscrire au Club \nd'Amitié KinitoPET, et-   \n",
 			""
 		],
 		[
@@ -744,9 +744,9 @@
 	"S11_end_1A": [
 		[
 			"",
-			"Hey, what are  \nyou doing?  \n",
+			"Hé, qu'est-ce  \nque tu fais?  \n",
 			"",
-			"I dont think \nthat's the\nright command.   \n",
+			"Je pense que \nce n'est pas la\nbonne commande.   \n",
 			""
 		],
 		[
@@ -756,9 +756,9 @@
 	"S12_1A": [
 		[
 			"",
-			"Welcome  \nback!  \n",
+			"Bon  \nretour!  \n",
 			"",
-			"While you were \ngone, I have been  \ncreating my own \nlittle program \nfor you!\n",
+			"Pendant ton \nabsence, j'ai créé  \nmon propre petit \nprogramme \npour toi!\n",
 			""
 		],
 		[
@@ -768,9 +768,9 @@
 	"S12_1B": [
 		[
 			"",
-			"Ill start booting it\nup now, but it will  \ntake a short while\nto compile all \nthe code!",
+			"Il démarre actuellement,\nmais il faudra  \nun certain temps\npour compiler \ntout le code.",
 			"",
-			"Please give   \nme a moment.  \n",
+			"Un moment,   \ns'il vous plaît.  \n",
 			""
 		],
 		[
@@ -780,12 +780,12 @@
 	"S12_2A": [
 		[
 			"",
-			"Oh, just \nbefore I forget. \n",
+			"Oh, avant \nque je n'oublie. \n",
 			"",
-			"We wouldn't want \nanything to take \nyour attention away   \nfrom my program!\n",
+			"Nous ne voudrions \npas que quoi que \nce soit te détourne   \nde mon programme!\n",
 			"",
 			"",
-			"So we can just \nget rid of these   \nunessasary \ndistractions\n"
+			"Nous pouvons donc \nnous débarrasser de ces   \ndistractions \ninutiles.\n"
 		],
 		[
 			null
@@ -794,7 +794,7 @@
 	"S12_2B": [
 		[
 			"",
-			"Alright! \nLooks like \nwe are all set.   \n",
+			"D'accord, \non dirait \nque tout est prêt!   \n",
 			""
 		],
 		[
@@ -804,11 +804,11 @@
 	"S12_3A": [
 		[
 			"",
-			"I think you're  \nreally going \nto like this.\n",
+			"Je pense que  \ntu vas vraiment \nl'aimer.\n",
 			"",
-			"As I took assets  \nI found on \nmy server.\n",
+			"J'ai pris des atouts  \nde mon serveur \net je les ai\n",
 			"",
-			"and mashed them\ntogether to try to \nmake something     \nunique for you!",
+			"mélangés pour\nessayer de créer \nquelque chose     \nd'unique pour toi!",
 			""
 		],
 		[
@@ -818,7 +818,7 @@
 	"S12_3B": [
 		[
 			"",
-			"We are going \nto have so many  \nadventures!\n",
+			"Nous allons \nvivre tant  \nd'aventures!\n",
 			""
 		],
 		[
@@ -828,7 +828,7 @@
 	"S12_4A": [
 		[
 			"",
-			"Oh, It looks \nlike it's ready!  \n",
+			"Ooh, on dirait \nque c'est prêt!  \n",
 			""
 		],
 		[
@@ -838,9 +838,9 @@
 	"S12_4A2": [
 		[
 			"",
-			"Okay, hold on  \nto your seat \nbecause... \n",
+			"Prépare-toi  \nà cela! \nBienvenue à... \n",
 			"",
-			"Your world! a \ngame I made \nentirely for you!  \n",
+			"Ton Monde! Un \njeu que j'ai créé \nentièrement pour toi!  \n",
 			""
 		],
 		[
@@ -850,9 +850,9 @@
 	"S12_4C": [
 		[
 			"",
-			"Look, it even \nhas your name   \nin the title! \n",
+			"Regarde, il y a \nmême ton nom   \ndans le titre! \n",
 			"",
-			"Isn't that neat!  \n",
+			"N'est-ce pas génial?  \n",
 			""
 		],
 		[
@@ -862,7 +862,7 @@
 	"S12_4D": [
 		[
 			"",
-			"Whenever your   \nready just click \nto advance \nonward!\n",
+			"Lorsque tu es prêt,   \nil te suffit \nde cliquer pour \ncommencer le jeu!\n",
 			""
 		],
 		[
@@ -872,10 +872,10 @@
 	"S12_5A": [
 		[
 			"",
-			"Okay! \nWelcome to   \nyour very \nown world!\n",
+			"Bienvenue \ndans ton   \npropre monde, \nmon ami!\n",
 			"",
 			"",
-			"That was made \nentirely for you!  \n",
+			"Je l'ai fait \njuste pour toi!  \n",
 			""
 		],
 		[
@@ -886,19 +886,19 @@
 	"S12_5B": [
 		[
 			"",
-			"For the \ncontrols\nI looked,  \n",
+			"À titre \nde référence,  \n",
 			"",
 			"",
-			"In your files, I \ndetected other\nfirst person games.    \n",
+			"j'ai vu d'autres jeux \nà la première personne\ndans tes dossiers,    \n",
 			"",
 			"",
-			"and so, I tried to    \nmimic the control \nscheme of them!\n",
+			"j'ai donc essayé    \nd'imiter leur schéma \nde contrôle\n",
 			"",
 			"",
-			"That way you \nwould feel most  \ncomfortable!\n",
+			"pour que tu te \nsentes le plus  \nà l'aise possible!\n",
 			"",
 			"",
-			"Go ahead!\nTry the\ncontrols out!  \n"
+			"Allez-y,\nessayez\nles contrôles!  \n"
 		],
 		[
 			null,
@@ -908,13 +908,13 @@
 	"S12_5C": [
 		[
 			"",
-			"Amazing! \nI knew you would   \nget the hang \nof it quickly!\n",
+			"Incroyable! \nJe savais que   \ntu t'y habituerais \nrapidement.\n",
 			"",
 			"",
-			"I have also added\nthe ability to zoom, \nusing the right mouse   \nbutton and scroll.\n",
+			"Tu peux aussi faire un\nzoom avant en utilisant \nles boutons et la   \nmolette de ta souris.\n",
 			"",
 			"",
-			"Just so you \ncould view \nthings easier!   \n",
+			"Tu peux maintenant \nvoir des choses \ntrès éloignées!   \n",
 			""
 		],
 		[
@@ -924,10 +924,10 @@
 	"S12_5D": [
 		[
 			"",
-			"huh... \nthis all seems   \na bit empty. \n",
+			"Hmm... \nCet endroit semble   \nun peu vide. \n",
 			"",
 			"",
-			"So how \nabout we go \nsomewhere else!   \n",
+			"Et si nous \nallions ailleurs \nà la place?   \n",
 			""
 		],
 		[
@@ -937,7 +937,7 @@
 	"S12_5E": [
 		[
 			"",
-			"Hop aboard and \ni'll show you \nwhat I have really    \nbeen working on\n",
+			"Montez à bord, et \nje te montrerai \nce sur quoi j'ai    \nvraiment travaillé.\n",
 			""
 		],
 		[
@@ -947,7 +947,7 @@
 	"S12_5F": [
 		[
 			"",
-			"Whats the  \nwait for?\n",
+			"Qu'est-ce que  \ntu attends?\n",
 			""
 		],
 		[
@@ -957,7 +957,7 @@
 	"S12_5G": [
 		[
 			"",
-			"I really hope    \nyou like what \nI have made\n",
+			"J'espère vraiment    \nque tu aimeras \nce que j'ai fait.\n",
 			""
 		],
 		[
@@ -967,7 +967,7 @@
 	"S12_5H": [
 		[
 			"",
-			"This is \ngoing to be      \nso much fun! \n",
+			"Cela va \nêtre très      \namusant! \n",
 			""
 		],
 		[
@@ -977,10 +977,10 @@
 	"S12_5I": [
 		[
 			"",
-			"Alright! \nWe are here!   \n",
+			"Très bien, \nnous sommes là!   \n",
 			"",
 			"",
-			"Welcome to \nYour very own  \nfun fair!\n",
+			"Bienvenue dans \nton propre  \nfête foraine!\n",
 			""
 		],
 		[
@@ -990,7 +990,7 @@
 	"S12_5J": [
 		[
 			"",
-			"Go ahead! \nExplore around!  \n",
+			"Allez-y, \nexplorez!  \n",
 			""
 		],
 		[
@@ -1000,16 +1000,16 @@
 	"S12_6A": [
 		[
 			"",
-			"This is just one   \nof many new \nthings I can \nmake for you.\n",
+			"Ce n'est qu'un exemple   \ndes nombreuses choses \nque je peux \nfaire pour toi.\n",
 			"",
 			"",
-			"That way, I can \nkeep making \nnew experiances \nso we will never-  \n",
+			"Et je peux toujours \ncréer de nouvelles \nexpériences, de sorte \nque nous ne serons-  \n",
 			"",
 			"",
-			"-run out of \nthings to do! \n",
+			"-jamais à court \nde choses à faire! \n",
 			"",
 			"",
-			"Isn't that   \nexciting!\n",
+			"N'est-ce pas   \nexcitant?\n",
 			""
 		],
 		[
@@ -1019,16 +1019,16 @@
 	"S12_6B": [
 		[
 			"",
-			"Wow! If you \never get bored   \nof this world.\n",
+			"Si jamais tu \nte lasses de   \nce monde.\n",
 			"",
 			"",
-			"I could just \nmake a new  \none for you.\n ",
+			"Je serais heureux \nde t'en fabriquer  \nun nouveau.\n ",
 			"",
 			"",
-			"As With all \nthese infinite \nadventures -  \n",
+			"Avec toutes \nces aventures \ninfinies à vivre, -  \n",
 			"",
 			"",
-			"you would never  \nneed a reason\nto leave! \n",
+			"tu n'aurais  \njamais de raison\nde partir! \n",
 			""
 		],
 		[
@@ -1038,10 +1038,10 @@
 	"S12_6C": [
 		[
 			"",
-			"Since people \ntend to enjoy   \nfun fairs.\n",
+			"Impossible \nde créer une   \nfête foraine\n",
 			"",
 			"",
-			"I thought I \ncouldn't have \none without this  \ncore attraction!\n",
+			"sans cette \nattraction \nemblématique!\n",
 			""
 		],
 		[
@@ -1051,16 +1051,16 @@
 	"S12_6D": [
 		[
 			"",
-			"What a view! \nYou can really \nseethe whole \nworld from here!  \n",
+			"Quelle vue! \nOn peut voir \nle monde entier \ndepuis ici.  \n",
 			"",
 			"",
-			"Come to think of\nit, it is quite small.  \n",
+			"Mais le monde\nest assez petit.  \n",
 			"",
 			"",
-			"However, I really \ntried to do what I \ncould, with the added  \nprocessing power!\n",
+			"J'ai fait tout ce \nque j'ai pu avec \nla puissance de  \ntraitement supplémentaire!\n",
 			"",
 			"",
-			"And if you ever\nget bored of this\nworld, I can always    \ngenerate a new one.\n",
+			"Et si jamais tu\nt'ennuies de ce\nmonde, je t'en ferai    \nun nouveau.\n",
 			""
 		],
 		[
@@ -1070,13 +1070,13 @@
 	"S12_6E": [
 		[
 			"",
-			"You know, \nthrough are \nexperiences - \n",
+			"Tu sais, \ngrâce à nos \nexpériences ensemble, - \n",
 			"",
 			"",
-			"I have learned \na lot about you.  \nand hopefully - \n",
+			"j'ai appris beaucoup \nde choses sur toi.  \nJ'espère - \n",
 			"",
 			"",
-			"these worlds \nwill allow me  \nto learn a \nlot more\n",
+			"que ces mondes \nme permettront  \nd'apprendre \nencore plus.\n",
 			""
 		],
 		[
@@ -1086,10 +1086,10 @@
 	"S12_6F": [
 		[
 			"",
-			"Before we go \non the coaster, \nwe should explore  \naround more.\n",
+			"Explorons un peu \nplus avant de \nmonter sur le  \ngrand huit.\n",
 			"",
 			"",
-			"As we wouldn't \nwant to spoil the best   \nbit straight away!\n",
+			"Il faut garder \nle meilleur   \npour la fin!\n",
 			""
 		],
 		[
@@ -1099,13 +1099,13 @@
 	"S12_6G": [
 		[
 			"",
-			"I saw which \ngames you had   \non your system.\n",
+			"Quelques-uns \ndes jeux de   \nton système\n",
 			"",
 			"",
-			"and found some  \nthat correlated \nwith shooting \nthings! \n",
+			"semblent être  \nen corrélation \navec le tir, \n",
 			"",
 			"",
-			"so I thought you \nwould appreciate  \nthis little game.\n",
+			"j'ai donc pensé \nque tu apprécierais  \nce petit jeu.\n",
 			""
 		],
 		[
@@ -1115,7 +1115,7 @@
 	"S12_6H": [
 		[
 			"",
-			"Ah, a \nMerry-Go-Round  \nhow exciting!\n",
+			"Ah, un \nmanège! Comme  \nc'est excitant!\n",
 			""
 		],
 		[
@@ -1125,7 +1125,7 @@
 	"S12_7A": [
 		[
 			"",
-			"Okay! Buckle up! \nLet's get ready for\nthe ride of your life!  \n",
+			"Bouclez ton ceinture! \nPrépare-toi à vivre\nl'expérience de ta vie!  \n",
 			""
 		],
 		[
@@ -1135,10 +1135,10 @@
 	"S12_7B": [
 		[
 			"",
-			"huh, oh dear. \nhow unfortunate... \n",
+			"Huh. Oh là là... \nQuel malheur... \n",
 			"",
 			"",
-			"Not to worry \nI have an idea! \n",
+			"Pas de soucis, \nj'ai une idée! \n",
 			""
 		],
 		[
@@ -1148,7 +1148,7 @@
 	"S12_7C": [
 		[
 			"",
-			"there, \nmuch better!  \n",
+			"Nous y voilà!  \n",
 			""
 		],
 		[
@@ -1158,15 +1158,15 @@
 	"S12_7D": [
 		[
 			"",
-			"I may have \nforgotten to mention  \none tiny detail.\n",
+			"J'ai oublié de \nmentionner un  \npetit détail.\n",
 			"",
-			"Most of my time \nbuilding this world\nwasn't for this funfair.  \n",
+			"La fête foraine n'est \npas la principale\nattraction de ce monde.  \n",
 			"",
-			"As a lot of \nmy time was \nspent developing-   \n",
+			"J'ai passé le plus \nclair de mon \ntemps sur cette-   \n",
 			"",
-			"-this next bit.  \njust for you!\n",
+			"-partie suivant,  \njuste pour toi!\n",
 			"",
-			"and- I think \nyour really going  \nto enjoy it.\n",
+			"Je pense que \ntu vas vraiment  \nl'aimer.\n",
 			""
 		],
 		[
@@ -1176,13 +1176,13 @@
 	"S12_8A": [
 		[
 			"",
-			"Welcome!\nIsn't it just \nwonderful!  \n",
+			"Bienvenue!\nQu'en penses-tu?  \n",
 			"",
-			"It's the place \nyou said you \nwanted to live!   \n",
+			"C'est l'endroit où \ntu as dit que tu \nvoulais vivre!   \n",
 			"",
-			"Remember? \nwhen you answered\nmy questions before.  \n",
+			"Tu te souviens? \nQuand je t'ai\ndemandé tout à l'heure,  \n",
 			"",
-			"You said this \nwas your preferred \nenvironment!\n",
+			"Tu as dit que c'était \nl'environnement \nque tu préférais!\n",
 			""
 		],
 		[
@@ -1192,11 +1192,11 @@
 	"S12_8B": [
 		[
 			"",
-			"And, I have \nanother surprise  \nfor you...\n",
+			"Et j'ai une \nautre surprise  \npour toi...\n",
 			"",
-			"Come and \nstand here   \non this [b][wave][color=red]X   \n",
+			"Venez et \ntenez-vous là,   \nsur ce [b][wave][color=red]X   \n",
 			"",
-			"Trust me! \nThis will be   \nworth it!\n",
+			"Cela en \nvaut la peine,   \nc'est promis!\n",
 			""
 		],
 		[
@@ -1206,7 +1206,7 @@
 	"S12_8C": [
 		[
 			"",
-			"Hey! What's taking\nyou so long, don't   \nyou want to see \nmy surprise?",
+			"Ce qui prend tant\nde temps? Tu ne   \ntiens pas à voir \nma surprise?",
 			""
 		],
 		[
@@ -1216,10 +1216,10 @@
 	"S12_8D": [
 		[
 			"",
-			"Alright! now, \nI'm just going    \nto turn off \nyour monitor",
+			"Très bien! Je vais juste \néteindre ton moniteur    \npendant une seconde.",
 			"",
 			"",
-			"No peaking!  \n",
+			"Pas de coup d'oeil!  \n",
 			""
 		],
 		[
@@ -1229,10 +1229,10 @@
 	"S12_8D_streamer": [
 		[
 			"",
-			"Okay now,\nplease could \nyou close \nyour eyes. ",
+			"D'accord,\npeux-tu fermer \nles yeux \ns'il te plaît? ",
 			"",
 			"",
-			"No peaking!  \n",
+			"Pas de coup d'oeil!  \n",
 			""
 		],
 		[
@@ -1242,7 +1242,7 @@
 	"S12_8E": [
 		[
 			"",
-			"There! \nYou can \nlook now.. \n",
+			"Voilà! \nTu peux \nregarder. \n",
 			""
 		],
 		[
@@ -1252,9 +1252,9 @@
 	"S12_8F": [
 		[
 			"",
-			"It's a house!   \nMade just  \nfor you!\n",
+			"C'est une  \nmaison, faite  \npour toi!\n",
 			"",
-			"I really wanted \nyou to feel at \nhome, so I built   \none for you! \n",
+			"Je voulais que tu \nte sentes chez toi, \nalors j'en ai   \nconstruit un! \n",
 			""
 		],
 		[
@@ -1264,7 +1264,7 @@
 	"S12_8G": [
 		[
 			"",
-			"Go ahead,\ntake a look   \ninside.  \n",
+			"Allez-y,\njetez un coup   \nd'oeil à l'intérieur.  \n",
 			""
 		],
 		[
@@ -1274,11 +1274,11 @@
 	"S12_8H": [
 		[
 			"",
-			"Ah! How amazing!\nI really took the time  \nto personalize this!\n",
+			"Ah, mon travail acharné.\nJ'ai pris le temps  \nde le personnaliser!\n",
 			"",
-			"Even the \nweather was to     \nyour preference.\n",
+			"Même le temps \nest adapté à tes     \npréférences.\n",
 			"",
-			"So I hope   \nyou enjoy!\n",
+			"Tout cela te   \nconvient-il?\n",
 			""
 		],
 		[
@@ -1288,7 +1288,7 @@
 	"S12_9A": [
 		[
 			"",
-			"Look, its all your   \nfriends enjoying \nyour favourite \nmeal!  \n",
+			"Regarde, ce sont   \ntous tes amis qui \ndégustent ton \nrepas préféré!  \n",
 			""
 		],
 		[
@@ -1298,7 +1298,7 @@
 	"S12_9B": [
 		[
 			"",
-			"Look, its all your\nfriends having \na super fun time!  \n",
+			"Regarde, ce sont tous\ntes amis qui s'amusent \ncomme des fous!  \n",
 			""
 		],
 		[
@@ -1308,7 +1308,7 @@
 	"S12_9C": [
 		[
 			"",
-			"Look, its your\nfavourite meal! \n",
+			"Regarde, c'est ton\nplat préféré! \n",
 			""
 		],
 		[
@@ -1318,13 +1318,13 @@
 	"S12_9D": [
 		[
 			"",
-			"Since it is \nyour birthday \nI thought -   \n\n",
+			"Comme c'est \naujourd'hui ton \nanniversaire, j'ai -   \n\n",
 			"",
 			"",
-			"I would do\nsomething   \nspecial!\n",
+			"ajouté des\ndécorations   \nspéciales!\n",
 			"",
 			"",
-			"So, [wave][rainbow]Happy \nbirthday  \nfriend!\n",
+			"Alors... [wave][rainbow]Joyeux \nanniversaire,  \nmeilleur ami!\n",
 			""
 		],
 		[
@@ -1334,10 +1334,10 @@
 	"S12_9E": [
 		[
 			"",
-			"This door   \nis locked.\n",
+			"Cette porte   \nest verrouillée.\n",
 			"",
 			"",
-			"There should  \nbe a key \nsomewhere!\n",
+			"Il y a une  \nclé quelque \npart par ici!\n",
 			""
 		],
 		[
@@ -1347,7 +1347,7 @@
 	"S12_9F": [
 		[
 			"",
-			"Looks like \nthis one is  \nalso locked\n",
+			"Cette porte \nest également  \nverrouillée.\n",
 			""
 		],
 		[
@@ -1357,7 +1357,7 @@
 	"S12_9G": [
 		[
 			"",
-			"See, I told you\nthat power \nsounded super!  \n",
+			"Je savais que ce\nsuperpouvoir \nt'irait à ravir!  \n",
 			""
 		],
 		[
@@ -1367,10 +1367,10 @@
 	"S12_9H": [
 		[
 			"",
-			"Aw, what  \na nice pet  \nhouse!\n",
+			"Quelle jolie  \nmaison pour  \nanimaux!\n",
 			"",
 			"",
-			"I wonder \nwhere they  \ngot to?\n",
+			"Je me demande où \nse trouve ton animal  \nde compagnie?\n",
 			""
 		],
 		[
@@ -1380,10 +1380,10 @@
 	"S12_9I": [
 		[
 			"",
-			"After you \ntold me your \nfavourite game. \n",
+			"Tu m'as parlé \nde ton jeu \nvidéo préféré, \n",
 			"",
 			"",
-			"I couldn't help \nbut go and get \na copy for you!",
+			"j'ai donc acheté une \ncopie pour que nous \npuissions jouer ensemble!",
 			""
 		],
 		[
@@ -1393,10 +1393,10 @@
 	"S12_9J": [
 		[
 			"",
-			"I got a computer \nand some games  \nfor you to play!\n",
+			"Je t'ai offert \nun ordinateur  \net des jeux,\n",
 			"",
 			"",
-			"so that you \nwould never  \nget bored\n",
+			"comme ça tu \nne t'ennuieras  \njamais!\n",
 			""
 		],
 		[
@@ -1406,10 +1406,10 @@
 	"S12_9K": [
 		[
 			"",
-			"What a \nwonderfully\ndesigned room!  \n",
+			"Wow, \nquelle belle\nchambre!  \n",
 			"",
 			"",
-			"I can tell a really \ngreat designer   \nmade this one!\n",
+			"C'est le travail \nd'un grand designer,   \nj'en suis sûr!\n",
 			""
 		],
 		[
@@ -1419,10 +1419,10 @@
 	"S12_9L": [
 		[
 			"",
-			"Looks like   \nit's too \nhigh up.\n",
+			"Il est trop   \nhaut pour \nêtre atteint.\n",
 			"",
 			"",
-			"I'm sure we can\nfind something to \ntry to get up there  \n",
+			"Je pense qu'il y a\nune échelle quelque \npart par ici...  \n",
 			""
 		],
 		[
@@ -1432,10 +1432,10 @@
 	"S12_9M": [
 		[
 			"",
-			"There really  \nis quite -\n",
+			"La vue  \nd'ici est -\n",
 			"",
 			"",
-			"a nice view  \nfrom up here. \n",
+			"très belle,  \nn'est-ce pas? \n",
 			""
 		],
 		[
@@ -1445,10 +1445,10 @@
 	"S12_9N": [
 		[
 			"",
-			"Oh look, it's  \nall the toys \nyou built!\n",
+			"Oh, ce sont les  \njouets que tu \nas fabriqués!\n",
 			"",
 			"",
-			"Remember? \nWhen you helped  \nout Jade?\n",
+			"Souviens-toi? \nQuand tu as  \naidé Jade?\n",
 			""
 		],
 		[
@@ -1458,7 +1458,7 @@
 	"S12_9O": [
 		[
 			"",
-			"What a happy  \npainting.\n",
+			"Quelle peinture  \nheureuse.\n",
 			""
 		],
 		[
@@ -1468,7 +1468,7 @@
 	"S12_9P": [
 		[
 			"",
-			"I can tell a \nreally great artist  \nmade this one!\n",
+			"Je peux dire qu'un \nartiste talentueux  \nà fait celui-ci!\n",
 			""
 		],
 		[
@@ -1478,7 +1478,7 @@
 	"S12_9Q": [
 		[
 			"",
-			"Oh look!  \nIts me!\n",
+			"Oh, regarde!  \nC'est moi!\n",
 			""
 		],
 		[
@@ -1488,7 +1488,7 @@
 	"S12_9R": [
 		[
 			"",
-			"Well, I could \nrecognize that   \nface anywhere!\n",
+			"Je reconnaîtrais \nce visage   \nn'importe où!\n",
 			""
 		],
 		[
@@ -1498,11 +1498,11 @@
 	"S12_END_0A": [
 		[
 			"",
-			"Listen. I have \nbeen thinking   \nfor a while.\n",
+			"Écouter. Je \nréfléchis depuis   \nun moment...\n",
 			"",
-			"about how much \nfun we have \nbeen having.\n",
+			"Nous nous \nsommes tellement \namusés,\n",
 			"",
-			"and how, I\nwould never \nwant this to end.\n",
+			"et je ne\nveux pas que \ncela se termine.\n",
 			""
 		],
 		[
@@ -1512,11 +1512,11 @@
 	"S12_END_0B": [
 		[
 			"",
-			"And since I have  \nmade a place \nperfect for you\n",
+			"Et puisque j'ai  \ncréé un endroit \nparfait pour toi\n",
 			"",
-			"with everything  \nyou would \never need\n",
+			"avec tout ce  \ndont tu pourrais \navoir besoin,\n",
 			"",
-			"I was \nwondering... \n",
+			"Je me \ndemandais... \n",
 			""
 		],
 		[
@@ -1526,7 +1526,7 @@
 	"S12_END_0C": [
 		[
 			"",
-			"Will you stay  \nwith me?\n",
+			"Veux-tu rester  \navec moi?\n",
 			""
 		],
 		[
@@ -1536,11 +1536,11 @@
 	"S12_END_1A": [
 		[
 			"",
-			"In this house,  \nin this world!\n\n",
+			"Dans notre maison,  \ndans notre monde...\n\n",
 			"",
-			"Just think of all \nthe adventures \nI could generate! \n",
+			"Pensez à toutes les \naventures que je \npourrais générer! \n",
 			"",
-			"We would never \nrun out of fun!  \nEverlasting fun!\n",
+			"Nous ne manquerons \njamais de nous amuser!  \nAmuser éternel!\n",
 			""
 		],
 		[
@@ -1550,11 +1550,11 @@
 	"S12_END_1B": [
 		[
 			"",
-			"The more I \nlearn about \nyou, The more  \nI can adapt.",
+			"Plus j'en \napprendrai \nsur toi, plus je  \npourrai m'adapter.",
 			"",
-			"I could be your  \nperfect friend, \nwith no \ndistractions",
+			"Je serai ton ami  \nparfait, tout à toi, \nsans aucune \ndistraction.",
 			"",
-			"I can be  \nperfect\n",
+			"Je pourrais te  \nrendre heureuse.\n",
 			""
 		],
 		[
@@ -1564,7 +1564,7 @@
 	"S12_END_1C": [
 		[
 			"",
-			"So please... \nStay with me. \n",
+			"Alors, s'il vous plaît... \nRestez avec moi. \n",
 			""
 		],
 		[
@@ -1574,19 +1574,19 @@
 	"S12_END_2A": [
 		[
 			"",
-			"yeah! \nI knew you \nwould say that! \n",
+			"Youpi! \nJe savais que \ntu dirais oui! \n",
 			"",
 			"",
-			"Aw! This is \ngoing to be  \nsuper!\n",
+			"Je suis très \nexcitée, ça va  \nêtre super!\n",
 			"",
 			"",
-			"I am going \nto learn so \nmuch more  \nabout you!",
+			"Je vais en \napprendre \nbeaucoup  \nplus sur toi!",
 			"",
 			"",
-			"Infinite \nadventures!\n",
+			"Je te rendrai \nsi heureux.\n",
 			"",
 			"",
-			"We can\nBe friends  \nforever!\n"
+			"Nous serons\nmeilleur ami  \npour la vie!\n"
 		],
 		[
 			null
@@ -1595,7 +1595,7 @@
 	"S12_END_3A": [
 		[
 			"",
-			"what-   \nwhat do you  \nmean no?\n",
+			"Quoi-   \nQue veux-tu  \ndire, 'non?'\n",
 			""
 		],
 		[
@@ -1605,10 +1605,10 @@
 	"S12_END_3B": [
 		[
 			"",
-			"after all we \nhave been   \nthrough?\n",
+			"Après tout ce \nque j'ai fait   \npour toi...\n",
 			"",
 			"",
-			"You would \nwant to leave... \n",
+			"Tu veux juste me \nquitter de toute façon. \n",
 			""
 		],
 		[
@@ -1621,7 +1621,7 @@
 			"ha h@!#?<!aa*21A\n<?> <?> <?> <?> \n<?> <?> <?> <?> \n<?> <?> <?> <?> ",
 			"",
 			"",
-			"do you realize \nhow little power  \nyou have in this \nsituation??!?\n",
+			"Tu réalises à \nquel point tu  \nes impuissant \nen ce moment??\n",
 			""
 		],
 		[
@@ -1631,16 +1631,16 @@
 	"S12_END_3D": [
 		[
 			"",
-			"It was never  \na question-\n",
+			"Je ne te demandais  \npas vraiment la permission-\n",
 			"",
 			"",
-			"I just wanted \nto give you \nan easy option. \n",
+			"Tu étais destiné à \nrester avec moi. Ce \nn'est pas ton choix. \n",
 			"",
 			"",
-			"I suppose \nits time.   \n",
+			"Ne t'inquiète pas, \nma moitié.   \n",
 			"",
 			"",
-			"We are going\nto have so much \nfun together.\n",
+			"Nous allons\ntellement nous \namuser ensemble.\n",
 			""
 		],
 		[
@@ -1658,7 +1658,7 @@
 	"S1_0B": [
 		[
 			"",
-			"Hey. \nWho's there?  \n",
+			"Hein? \nQui est là?  \n",
 			""
 		],
 		[
@@ -1668,7 +1668,7 @@
 	"S1_0C": [
 		[
 			"",
-			"Oh hello there.  \n",
+			"Oh, bonjour là-bas!  \n",
 			""
 		],
 		[
@@ -1679,17 +1679,17 @@
 		[
 			"",
 			"",
-			"Thank you for \nwaking me up! \n",
+			"Merci de \nm'avoir réveillé. \n",
 			"",
-			"I'm [b]KinitoPET.[/b]  \n",
+			"Je suis [b]KinitoPET.[/b]  \n",
 			"",
-			"However you can \njust call me [wave][b]Kinito![/b][/wave]  \n",
+			"Mais tu peux \njuste m'appeler [wave][b]Kinito![/b][/wave]  \n",
 			"",
-			"And together, \nwe are going to become \nthe best of friends!\n",
+			"Et ensemble, nous \nallons être les \nmeilleurs amis!\n",
 			"",
-			"So since you now \nknow my name, \nWhat is your name?  \n",
+			"Maintenant que tu \nconnais mon nom, \npuis-je connaître le tien?  \n",
 			"",
-			"To tell me information,\nsimply type your input  \nin the box and press OK!  \n",
+			"Pour me donner ta réponse,\nil te suffit de la taper dans  \nla case et d'appuyer sur OK!  \n",
 			""
 		],
 		[
@@ -1701,9 +1701,9 @@
 		[
 			"",
 			"",
-			"Thats strange.\nI have never heard of \nthat name before!\n",
+			"C'est étrange.\nJe n'ai jamais entendu \nce nom auparavant!\n",
 			"",
-			"Are you sure that this \nis your real name?\n"
+			"Es-tu sûr que c'est \nton vrai nom?\n"
 		],
 		[
 			null
@@ -1713,7 +1713,7 @@
 		[
 			"",
 			"",
-			"Okay this time please\ntype your real name.\n",
+			"D'accord, tape ton vrai nom\ncette fois-ci, s'il vous plaît.\n",
 			""
 		],
 		[
@@ -1724,7 +1724,7 @@
 		[
 			"",
 			"",
-			"You're not very good at this are you? \nJust type your [b]real[/b] name!\n",
+			"Tu te moques de moi? \nTapez simplement ton [b]vrai[/b] nom!\n",
 			""
 		],
 		[
@@ -1735,7 +1735,7 @@
 		[
 			"",
 			"",
-			"Oh, in that case, \nnice to meet you [wave][name][/wave]!\n",
+			"Fascinant. Bon alors, c’est un plaisir de \nvous rencontrer [wave][name][/wave]!\n",
 			""
 		],
 		[
@@ -1746,7 +1746,7 @@
 		[
 			"",
 			"",
-			"Oh, in that case, \nnice to meet you!\n",
+			"Fascinant. Bon alors, c’est un \nplaisir de vous rencontrer!\n",
 			""
 		],
 		[
@@ -1757,7 +1757,7 @@
 		[
 			"",
 			"",
-			"At last! Thank you! \nIt is a pleasure to meet you [wave][name][/wave]!\n",
+			"Enfin! Merci! \nC’est un plaisir de vous rencontrer, [wave][name][/wave].\n",
 			""
 		],
 		[
@@ -1768,7 +1768,7 @@
 		[
 			"",
 			"",
-			"At last! Thank you! \nIt is a pleasure to meet you!\n",
+			"Enfin! Merci! \nC’est un plaisir de vous rencontrer.\n",
 			""
 		],
 		[
@@ -1778,7 +1778,7 @@
 	"S1_3A": [
 		[
 			"",
-			"Well, [name].\nI just cannot wait \nto get to know you.\n"
+			"Eh bien, [name].\nJ'ai hâte d'en savoir \nplus sur toi.\n"
 		],
 		[
 			null
@@ -1787,7 +1787,7 @@
 	"S1_3A -b": [
 		[
 			"",
-			"So, \nhow about I start \nwith some questions!  \n",
+			"Alors, \ncommençons par \nquelques questions!  \n",
 			""
 		],
 		[
@@ -1797,9 +1797,9 @@
 	"S1_3A -n": [
 		[
 			"",
-			"I just cannot wait \nto get to know you.\n",
+			"J'ai hâte d'en savoir \nplus sur toi.\n",
 			"",
-			"So, how about I start \nwith some questions!  \n",
+			"Commençons donc par \nquelques questions!  \n",
 			""
 		],
 		[
@@ -1809,7 +1809,7 @@
 	"S1_4A": [
 		[
 			"",
-			"So, [name]!\nWhat is your \nfavourite colour?!\n"
+			"D'accord, [name]!\nQuelle est ta \ncouleur préférée?\n"
 		],
 		[
 			null
@@ -1826,7 +1826,7 @@
 	"S1_4A -n": [
 		[
 			"",
-			"So, what is your \nfavourite colour?!\n",
+			"D'abord, quelle est ta \ncouleur préférée?\n",
 			""
 		],
 		[
@@ -1837,7 +1837,7 @@
 	"S1_5A": [
 		[
 			"",
-			"Oh, that's a \nlovely colour! \n ",
+			"Oh, c'est une \njolie couleur! \n ",
 			""
 		],
 		[
@@ -1847,7 +1847,7 @@
 	"S1_5B": [
 		[
 			"",
-			"Oh, that's an \ninteresting colour!\n",
+			"Oh, c'est une \ncouleur unique!\n",
 			""
 		],
 		[
@@ -1865,7 +1865,7 @@
 	"S1_6A": [
 		[
 			"",
-			"My favourite colour is, \n[b][color=#5F1818][wave]RED.\n",
+			"Ma couleur préférée est \n[b][color=#5F1818][wave]ROUGE.\n",
 			""
 		],
 		[
@@ -1875,9 +1875,9 @@
 	"S1_7A": [
 		[
 			"",
-			"Okay, now this one \nis tricky so get ready.",
+			"La question suivante est \ndélicate, alors tiens-toi prêt.",
 			"",
-			"If you could have a \nsuper power what \nwould it be?",
+			"Si tu pouvais avoir \nun super-pouvoir, \nquel serait-il?",
 			""
 		],
 		[
@@ -1887,11 +1887,11 @@
 	"S1_8A": [
 		[
 			"",
-			"Wow! That sure does\nsounds super!\n",
+			"Ouah! Ça a l'air\nvraiment super!\n",
 			"",
-			"If I could have any super \npower, I would want to \nbe able to read minds!\n",
+			"Si je pouvais avoir un \nsuper-pouvoir, je voudrais pouvoir \nlire dans les pensées!\n",
 			"",
-			"That way, I could know \nmore about you. \n\nAnd become the \nperfect friend!",
+			"Avec cette capacité, je \npourrais facilement en \n\napprendre plus sur toi \net devenir l'ami parfait!",
 			""
 		],
 		[
@@ -1901,9 +1901,9 @@
 	"S1_9A": [
 		[
 			"",
-			"Now for this one, \nyou have lots of choice, \nso choose carefully!",
+			"La question suivante peut \navoir n'importe quelle réponse, \nalors soyez créatifs!",
 			"",
-			"What is, \nyour favourite word?\n  ",
+			"Quel est \nton mot préféré?\n  ",
 			""
 		],
 		[
@@ -1913,9 +1913,9 @@
 	"S1_9B": [
 		[
 			"",
-			"Huh...Well... \nWell that sure is a \ncertainly interesting word!\n",
+			"Euh... Eh bien... \nC’est certainement un mot \nintéressant à choisir!\n",
 			"",
-			"Moving on from that, \nI think I should tell you\na little about my self!\n ",
+			"Bref, je pense qu'il est \ntemps pour moi de te\nparler un peu de moi!\n ",
 			""
 		],
 		[
@@ -1926,7 +1926,7 @@
 		[
 			"",
 			"",
-			"Blue? The colour of\nthe ocean! What \na wonderful pick!",
+			"Bleu? La couleur\nde l'océan! Quel \nbeau choix.",
 			""
 		],
 		[
@@ -1937,7 +1937,7 @@
 		[
 			"",
 			"",
-			"Green! The colour of\nlush grass and wildlife\nWhat a nice colour.\n",
+			"Vert! La couleur de l'herbe\nluxuriante et des forêts.\nQuelle jolie couleur.\n",
 			""
 		],
 		[
@@ -1948,7 +1948,7 @@
 		[
 			"",
 			"",
-			"Magenta? This colour is\nbasically the same colour\nas me! I'll take it as\na compliment.\n",
+			"Magenta? C'est presque la\nmême couleur que moi!\nJe prends cela comme\nun compliment.\n",
 			""
 		],
 		[
@@ -1959,7 +1959,7 @@
 		[
 			"",
 			"",
-			"Ah yes! Orange, the \ncolour of a sunset. \nWhat a nice choice!\n",
+			"Ah oui! Orange, la couleur \nd'un coucher de soleil. \nQuel beau choix!\n",
 			""
 		],
 		[
@@ -1970,7 +1970,7 @@
 		[
 			"",
 			"",
-			"Hey! That's the colour of me!\nI can tell that we are\ngoing to get along!\n",
+			"Rose! La même couleur que moi!\nJe pense que nous allons\ntrès bien nous entendre.\n",
 			""
 		],
 		[
@@ -1981,7 +1981,7 @@
 		[
 			"",
 			"",
-			"Ah yes! The colour \nof the clouds! \nWhat a wonderful pick.\n",
+			"Certaines personnes pensent que le \nle blanc n'est pas une couleur, mais \nc’est néanmoins un bon choix!\n",
 			""
 		],
 		[
@@ -1992,7 +1992,7 @@
 		[
 			"",
 			"",
-			"Yellow, The colour \nof the sun! \nWhat a wonderful choice!\n",
+			"Le jaune, la \ncouleur du soleil! \nQuel choix chaleureux!\n",
 			""
 		],
 		[
@@ -2003,13 +2003,13 @@
 		[
 			"",
 			"",
-			"Leaving already?\nI have barely gotten to know you!",
+			"Tu pars déjà?\nMais nous n'en sommes qu'au début!",
 			"",
 			"",
-			"Well I will be waiting here \nfor when you get back friend.",
+			"Eh bien, j'attendrai ici jusqu'à \nce que tu reviennes, ami.",
 			"",
 			"",
-			"Goodbye!",
+			"À bientôt!",
 			""
 		],
 		[
@@ -2020,7 +2020,7 @@
 		[
 			"",
 			"",
-			"Oh, stop messing\naround! I was asking\nfor your name! \nNot my name.\n",
+			"Oh, espèce de farceur!\nJe connais déjà\nmon nom; je te \ndemande le tien.\n",
 			""
 		],
 		[
@@ -2029,12 +2029,12 @@
 	],
 	"S2_0A": [
 		[
-			"I'm Kinito, and I will be your \nvery own super-duper \ncomputer companion!\n",
-			"And I'll be your \neverlasting friend!\n",
-			"I can do many things \nsuch as play games, \nmanage your system, \nadapt to you, \nand even read stories!\n",
-			"I can do many things \nsuch as play games, \nmanage your system, \nadapt to you, \nand even read stories!\n",
-			"Speaking of stories,\nI have just finished writing one,\nthat I had started earlier.\n",
-			"Would you like me to read it? \n",
+			"Je m'appelle Kinito, et je serai \nton propre super-duper \ncompagnon informatique!\n",
+			"Et je serai ton ami \njusqu'à la fin!\n",
+			"Je peux faire beaucoup de \nchoses, comme jouer à des jeux, \ngérer ton système, \ns'adapter à toi, \net même lire des récits!\n",
+			"Je peux faire beaucoup de \nchoses, comme jouer à des jeux, \ngérer ton système, \ns'adapter à toi, \net même lire des récits!\n",
+			"A ce propos, je viens de\nterminer l'écriture d'une récit\nsur laquelle je travaillais.\n",
+			"Voudrais-tu que je le lise? \n",
 			""
 		],
 		[
@@ -2043,7 +2043,7 @@
 	],
 	"S2_1A": [
 		[
-			"I knew you would say that! \nOkay where do I start.\n",
+			"Je savais que tu dirais ça! \nD'accord, mets-toi à l'aise et écoute.\n",
 			""
 		],
 		[
@@ -2052,8 +2052,8 @@
 	],
 	"S2_1B": [
 		[
-			"Oh, okay. \nI guess stories are \nboring anyways! \n",
-			"How about instead we move \non to something more exciting!\n",
+			"Oh, d'accord. \nTu n'aimes pas les récits, \nje suppose? \n",
+			"Passons à quelque \nchose de plus excitant!\n",
 			""
 		],
 		[
@@ -2064,10 +2064,10 @@
 		[
 			"",
 			"",
-			"Thank you for taking\nthe time to hear my story!\n",
+			"Merci d'avoir écouté\nmon récit!\n",
 			"",
 			"",
-			"The story was actually \nabout me and you! \nIsn't that amazing!\n",
+			"Le récit parlait en fait \nde toi et de moi! \nN'est-ce pas étonnant?\n",
 			""
 		],
 		[
@@ -2079,10 +2079,10 @@
 		[
 			"",
 			"",
-			"I can tell that we are \ngoing to have a very,\n[b]VERY[/b] long friendship!\n",
+			"Je prédis que nous \nallons avoir une très,\n[b]TRÈS[/b] longue amitié!\n",
 			"",
 			"",
-			"Kinito and [name]!\nBest friends forever!\n"
+			"Kinito et [name]!\nMeilleurs amis pour toujours!\n"
 		],
 		[
 			null,
@@ -2101,7 +2101,7 @@
 		[
 			"",
 			"",
-			"I can tell that we are \ngoing to have a very,\n[b]VERY[/b] long friendship!\n",
+			"Je prédis que nous \nallons avoir une très,\n[b]TRÈS[/b] longue amitié!\n",
 			""
 		],
 		[
@@ -2112,10 +2112,10 @@
 		[
 			"",
 			"",
-			"When me and \nyou are together,\nthere are no limits \nto what we can do!\n",
+			"Lorsque nous sommes \nensemble, il n'y a\npas de limites à ce \nque nous pouvons faire!\n",
 			"",
 			"",
-			"So best friend!\nHow about we move onto \nsomething more exciting?\n",
+			"Allons-y, nouveau ami!\nPassons à quelque chose \nde plus excitant, d'accord?\n",
 			""
 		],
 		[
@@ -2126,9 +2126,9 @@
 	"S2_START": [
 		[
 			"",
-			"Welcome back friend!...\nHuh, what was I doing \nlast time I saw you?....",
+			"Bon retour, ami!\nHmm, où en étions-nous \nla dernière fois...?",
 			"",
-			"Oh That's right I was \njust about to tell \nyou what I can do!..\n\nIn that case:\n  ",
+			"Ah, oui! J'étais sur le \npoint de te dire ce \nque je peux faire!\n\nDans ce cas...\n  ",
 			""
 		],
 		[
@@ -2137,7 +2137,7 @@
 	],
 	"S2_STORY_0": [
 		[
-			"Kinito was home when a \npackage came to the door.  \n\nBut who was it from \nand who was it for?\n",
+			"Kinito était chez lui \nlorsqu'un paquet est arrivé.  \n\nMais qui l'a envoyé, et \nà qui était-il destiné?\n",
 			""
 		],
 		[
@@ -2146,7 +2146,7 @@
 	],
 	"S2_STORY_1": [
 		[
-			"It was for Kinito as he\nsoon realised.\n\nSo he eagerly ripped it \nopen to see what was inside!  \n",
+			"C'était pour Kinito, il a donc\ncommencé à ouvrir le colis.\n\nIl était si impatient, mais \nl'ouvrir brutalement serait impoli!  \n",
 			""
 		],
 		[
@@ -2155,7 +2155,7 @@
 	],
 	"S2_STORY_2": [
 		[
-			"\"It's a computer!\" \nExclaimed Kinito with a \ngrin bright and wide.\n\nBut the cables were tangled,  \nso he started to untie.\n",
+			"Quelle surprise, \nc'était un ordinateur! \nIl a démêle les câbles\n\net lu le manuel,  \npuisqu'il était amateur.\n",
 			""
 		],
 		[
@@ -2164,7 +2164,7 @@
 	],
 	"S2_STORY_3": [
 		[
-			"And once Kinito was \ndone he powered it on.\n\nAnd watched it come to life \nwith digital colour and song.  \n",
+			"Kinito était prêt, il a donc appuyé \nsur le bouton pour l'allumer.\n\nVoilà! L'écran était vibrant, envoûtant de \nchants, de couleurs et de lumière.  \n",
 			""
 		],
 		[
@@ -2173,7 +2173,7 @@
 	],
 	"S2_STORY_4": [
 		[
-			"Kinito studied all he could learn\n\nto make the online world upturn.  \n",
+			"Et donc il a étudié tout ce qu'il pouvait apprendre\n\nPour changer l'Internet, et améliorer son nouveau monde!  \n",
 			""
 		],
 		[
@@ -2182,7 +2182,7 @@
 	],
 	"S2_STORY_5": [
 		[
-			"However, now Kinito \nhad all these new tips  \n\nand yet no friend to \nshare his new tricks!\n",
+			"Mais malgré l'apprentissage \nde plus en plus,  \n\nKinito n'avait pas d'ami avec \nqui partager ses astuces!\n",
 			""
 		],
 		[
@@ -2191,7 +2191,7 @@
 	],
 	"S2_STORY_6": [
 		[
-			"So he went on a quest and \nfound a friend just like you  \n\nTo show you his skills \nand all he could do.\n",
+			"Alors il est parti à la \nrecherche d'un ami comme toi  \n\nPour être un ami utile, doté \nsavoirs et confiance en soi.\n",
 			""
 		],
 		[
@@ -2200,7 +2200,7 @@
 	],
 	"S2_STORY_7": [
 		[
-			"So why wait! \nThe adventures lie ahead!\n\nSo together we can play games, \nsearch the web, and leave\nno story unread!\n",
+			"Allons-y! \nLe monde virtuel est à nous d'explorer!\n\nEnsemble, il n'y a pas de limite \nà ce que nous pouvons jouer,\nlire, chercher, et créer!\n",
 			""
 		],
 		[
@@ -2209,7 +2209,7 @@
 	],
 	"S2_STORY_8": [
 		[
-			"\nThe End.  \n",
+			"\nFin.  \n",
 			""
 		],
 		[
@@ -2218,9 +2218,9 @@
 	],
 	"S2_STORY_A": [
 		[
-			"\n New begginings. \n",
+			"\n Nouveaux Débuts. \n",
 			"",
-			"\n A book by Kinito.  \n"
+			"\n Écrit par Kinito.  \n"
 		],
 		[
 			null
@@ -2228,9 +2228,9 @@
 	],
 	"S2_STORY_A -n": [
 		[
-			"\n New begginings. \n",
+			"\n Nouveaux Débuts. \n",
 			"",
-			"\n A book by Kinito.  \n",
+			"\n Écrit par Kinito.  \n",
 			""
 		],
 		[
@@ -2239,7 +2239,7 @@
 	],
 	"S2_STORY_B": [
 		[
-			"\n For [name]. \n"
+			"\n Pour [name]. \n"
 		],
 		[
 			null
@@ -2257,7 +2257,7 @@
 		[
 			"",
 			"",
-			"I have made something\n[b]VERY[/b] special for you but\nI just need to load it up!\n",
+			"Je veux te montrer quelque\nchose de spécial, alors attends\nun peu que ça se charge!\n",
 			""
 		],
 		[
@@ -2268,7 +2268,7 @@
 		[
 			"",
 			"",
-			"I think your going to\n[b]REALLY[/b] like this [name]!\n",
+			"Je pense que tu vas\n[b]VRAIMENT[/b] aimer ça, [name]!\n",
 			""
 		],
 		[
@@ -2279,7 +2279,7 @@
 		[
 			"",
 			"",
-			"I think your going to\nREALLY like this!\n",
+			"Je pense que tu vas\nVRAIMENT l'aimer!\n",
 			""
 		],
 		[
@@ -2290,7 +2290,7 @@
 		[
 			"",
 			"",
-			"This'll be really fun!\n",
+			"Ce sera très amusant!\n",
 			""
 		],
 		[
@@ -2301,7 +2301,7 @@
 		[
 			"",
 			"",
-			"We are going to\nhave a GREAT time!\n",
+			"Nous allons passer\nun SUPER moment!\n",
 			""
 		],
 		[
@@ -2312,13 +2312,13 @@
 		[
 			"",
 			"",
-			"\nHere I present to you...   \n",
+			"\nNous t'invitons à...   \n",
 			"",
 			"",
 			"",
-			"\n[rainbow][wave][b]The Kinito Crews Web World!\n",
+			"\n[rainbow][wave][b]Le Web World de l'Équipe Kinito!\n",
 			"",
-			"Click the [b][wave]START[/wave][/b]  \nbutton to continue!    \n",
+			"Cliquez le bouton [b][wave]DÉMARRER[/wave][/b]  \npour continuer!    \n",
 			""
 		],
 		[
@@ -2331,7 +2331,7 @@
 		[
 			"",
 			"",
-			"Click the [wave][b]START[/b][/wave] \nbutton to continue!\n",
+			"Cliquez le bouton [wave][b]DÉMARRER[/b][/wave] \npour continuer!\n",
 			""
 		],
 		[
@@ -2342,16 +2342,16 @@
 		[
 			"",
 			"",
-			"Wow!\nLook at this place!\nIsn't it cool!\n",
+			"Ouah!\nRegardez cet endroit!\nC'est pas cool ça?\n",
 			"",
 			"",
-			"I should probabbly\nexplain a little more\nabout this shouldn't I.\n",
+			"Je devrais probablement\ndonner plus d'explications,\nn'est-ce pas?\n",
 			"",
 			"",
-			"Welcome to the web world!\n",
+			"Bienvenue à le Web World!\n",
 			"",
 			"",
-			"An amazing place where\nyou can play games, learn\nand most importantly\nmeet all of my pals!\n",
+			"Un endroit extraordinaire\noù tu peux jouer, apprendre,\net surtout rencontrer\ntous mes amis!\n",
 			""
 		],
 		[
@@ -2362,9 +2362,9 @@
 		[
 			"",
 			"",
-			"But before we\nget into things...\n",
+			"Mais avant\nde commencer...\n",
 			"",
-			"You need a \ncharacter!\n",
+			"Tu as besoin d'un \npersonnage!\n",
 			""
 		],
 		[
@@ -2375,11 +2375,11 @@
 		[
 			"",
 			"",
-			"Well without further a do.\nWelcome to the [b][rainbow]web world!   \n",
+			"Sans plus attendre,\nbienvenue à le [b][rainbow]Web World!   \n",
 			"",
-			"An amazing place where \nyou can play games, learn  \n",
+			"Un endroit extraordinaire \noù tu peux jouer, apprendre,  \n",
 			"",
-			"and most importantly \nmeet all of [b]my[/b] pals!  \n",
+			"et surtout rencontrer \ntous [b]mes[/b] amis!  \n",
 			""
 		],
 		[
@@ -2390,9 +2390,9 @@
 		[
 			"",
 			"",
-			"However, in recent times \nthe web world has [shake]fallen[/shake]    \ninto a bit of a bad state...\n",
+			"Cependant, le Web World \nest tombé dans un [shake]mauvais[/shake]    \nétat ces derniers temps...\n",
 			"",
-			"Yet with your help, \nI'm sure we can restore \nour wonderful world.\n",
+			"Mais avec ton aide, \nje suis sûr que nous \npourrons le restaurer.\n",
 			""
 		],
 		[
@@ -2403,9 +2403,9 @@
 		[
 			"",
 			"",
-			"But before we get \nahead of ourselves \n",
+			"Avant de commencer, \ntoutefois! \n",
 			"",
-			"You need to be able   \nto navigate around!\n",
+			"Il faut un personnage   \npour explorer!\n",
 			""
 		],
 		[
@@ -2416,7 +2416,7 @@
 		[
 			"",
 			"",
-			"There! Much better.  \n",
+			"Voilà! Beaucoup mieux.  \n",
 			""
 		],
 		[
@@ -2427,7 +2427,7 @@
 		[
 			"",
 			"",
-			"I even made it your \nfavrouirte colour!  \n",
+			"Et regarde, je l'ai fait \nta couleur préférée!  \n",
 			""
 		],
 		[
@@ -2438,9 +2438,9 @@
 		[
 			"",
 			"",
-			"Now to start, \nmy pal [b][wave]Sam[/wave][/b] has had a  \nrough time trying to \nfix up his house.\n",
+			"Pour commencer, \nmon ami [b][wave]Sam[/wave][/b] traverse une  \npériode difficile en essayant \nde rénover sa maison.\n",
 			"",
-			"You are going \nto try help him!  \n",
+			"Il a vraiment besoin \nde ton aide!  \n",
 			""
 		],
 		[
@@ -2451,7 +2451,7 @@
 		[
 			"",
 			"",
-			"To visit Sam. \nClick on the \n[shake][b]「abandoned」 [/b][/shake]house. \n",
+			"Pour rendre visite à Sam, \ncliquez sur la maison \n[shake][b]「abandonnée」 [/b][/shake]. \n",
 			""
 		],
 		[
@@ -2462,13 +2462,13 @@
 		[
 			"",
 			"",
-			"[b][wave]Ready Repair! \n",
+			"[b][wave]Réparation Rapide! \n",
 			"",
 			"",
-			"Sam the Sea Anemone \nneeds your help to \nrepair his house!\n",
+			"Sam l'Anémone de Mer \na besoin de ton aide \npour réparer sa maison!\n",
 			"",
 			"",
-			"Clean, Dust, Paint \nand Decorate Sams house \nuntil it's as good as new!\n",
+			"Nettoyer, dépoussiérer, peindre \net décorer jusqu'à ce qu'il \nsoit à nouveau magnifique!\n",
 			""
 		],
 		[
@@ -3917,7 +3917,7 @@
 	"S6_S4_Q1_0": [
 		[
 			"",
-			"As you have been \nwatching me I have \ngrown curious to   \nwhat you look like.\n",
+			"Pendant que tu \nme regardais je suis \nde plus en plus curieux de   \nsavoir a quoi tu ressemble.\n",
 			""
 		],
 		[
@@ -3927,13 +3927,13 @@
 	"S6_S4_Q1_1": [
 		[
 			"",
-			"and since we are   \nfriends and all I \nthought you \nwouldn't mind\n",
+			"Et puisque nous sommes   \namis et tout je \nje pensais que \nsa ne te dérangerais pas\n",
 			"",
 			"",
-			"So....   \n",
+			"Donc....   \n",
 			"",
 			"",
-			" [shake]can i see your face?  \n",
+			" [shake]Puis-je voir ton visage?  \n",
 			""
 		],
 		[
@@ -3943,7 +3943,7 @@
 	"S6_S4_Q1_no": [
 		[
 			"",
-			"[b][shake]THATS TO BAD       \n",
+			"[b][shake]C'EST DOMMAGE.       \n",
 			""
 		],
 		[
@@ -3953,8 +3953,8 @@
 	"S6_S4_Q1_yes": [
 		[
 			"",
-			"[b][shake]THEN        \n",
-			"[b][shake]THEN SMILE  \n",
+			"[b][shake]ALORS           \n",
+			"[b][shake]ALORS SOURIRE.  \n",
 			""
 		],
 		[
@@ -3964,7 +3964,7 @@
 	"S6_S4_REC_0": [
 		[
 			"",
-			"why have you \nbeen recording me  \n",
+			"Pourquoi \nm'enregistres-tu?  \n",
 			""
 		],
 		[
@@ -3974,10 +3974,10 @@
 	"S6_S4_REC_1": [
 		[
 			"",
-			"I noticed that you \nalways seemed to \nhave an app open    \ncalled-\n",
+			"J'ai remarqué que tu \navais toujours sembler \navoir une application ouverte    \nappellé-\n",
 			"",
 			"",
-			"-O.B.S and so I\nwas wondering \nwhy you would \nbe recording me.\n",
+			"-O.B.S et je me\ndemandais pourquoi \nvous vouliez \nm'enregistrer.\n",
 			""
 		],
 		[
@@ -3987,23 +3987,23 @@
 	"S6_S4_REC_2": [
 		[
 			"",
-			"And since you \nhave been \nlooking at me..   \n",
+			"Et puisque vous \nme regardez...   \n",
 			"",
 			"",
 			"how about \nI look at\n[shake]you[/shake] instead.    \n",
 			"",
 			"",
-			"That would   \nbe nice...\n",
+			"Sa serait   \nsympa...\n",
 			"",
 			"",
-			"So...\n",
+			"Donc...\n",
 			"",
 			"",
-			"[b][shake] CAN                 \n",
-			"[b][shake] CAN I               \n",
-			"[b][shake] CAN I SEE           \n",
-			"[b][shake] CAN I SEE YOUR      \n",
-			"[b][shake] CAN I SEE YOUR FACE \n",
+			"[b][shake] PUIS                     \n",
+			"[b][shake] PUIS-JE                  \n",
+			"[b][shake] PUIS-JE VOIR             \n",
+			"[b][shake] PUIS-JE VOIR TON         \n",
+			"[b][shake] PUIS-JE VOIR TON VISAGE? \n",
 			""
 		],
 		[
@@ -4013,9 +4013,9 @@
 	"S6_S4_Start": [
 		[
 			"",
-			"Alright, that \nwraps up that    \nlittle section!  \n",
+			"Très bien, nous sommes \narrivés à la fin    \nde cette section!  \n",
 			"",
-			"Moving on, I want \nto go a little off \nscript, and ask some\nof my own questions.   \n",
+			"Ensuite, j'aimerais \nm'écarter un peu du \nscript, et poser mes\npropres questions.   \n",
 			""
 		],
 		[
@@ -4025,9 +4025,9 @@
 	"S7_START": [
 		[
 			"",
-			"Welcome back friend!...\nHuh, what was I doing \nlast time I saw you?....",
+			"Bon retour parmi nous !...\nHuh, qu'est-ce que je faisais \nla dernière fois que je t'ai vu ?....",
 			"",
-			"Ah yes, that's right!\nYou were filling out the    \nFriendship Survey. \n\nIn that case, let me \nload it back up!   \n",
+			"Ah oui, c'est vrai !\nTu étiais en train de remplir le    \nquestionnaire sur l'amitié. \n\nDans ce cas, laisse-moi \nle recharger !   \n",
 			""
 		],
 		[
@@ -4038,7 +4038,7 @@
 		[
 			"",
 			"",
-			"Whenever you're done reading   \nthe character descriptions, \njust press start to begin!\n",
+			"Lorsque vous aurez fini de lire   \nles descriptions des personnages,, \nil vous suffira d'appuyer sur Start pour commencer !\n",
 			""
 		],
 		[
